@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practica_4</string>
+    <string name="Pantalla_1">Formulario de registro</string>
+    <string name="Pantalla_2">Formulario de registro parte 2</string>
+    <string name="lblFormulario">Formulario</string>
+    <string name="LblNombre">Nombre(s)</string>
+    <string name="LblApellidoP">Apellido Paterno</string>
+    <string name="LblApellidoM">Apellido Materno</string>
+    <string name="LblEdad">Edad</string>
+    <string name="LblDireccion">Dirección</string>
+    <string name="LblTelefono">Teléfono</string>
+    <string name="LblCarrera">Carrera</string>
+    <string name="LblSexo">Sexo</string>
+    <string name="BtnSiguiente">Siguiente</string>
+    <string name="RBMasculino">Masculino</string>
+    <string name="RBFemenino">Femenino</string>
+</resources>
